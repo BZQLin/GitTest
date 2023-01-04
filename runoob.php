@@ -1,4 +1,5 @@
 <?php
+<<<<<<< HEAD
 echo 1;
 ?>
 $ git diff
@@ -10,3 +11,7 @@ index e69de29..ac60739 100644
 +<?php
 +echo 1;
 +?>
+=======
+echo 'runoob';
+?>
+>>>>>>> change_site
